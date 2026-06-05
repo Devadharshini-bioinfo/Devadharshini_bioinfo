@@ -1,94 +1,47 @@
-<h1 align="center">Hi there, I'm Devadharshini S 👋</h1>
+# Hi, I'm Devadharshini S 👋🔬
 
-<p align="center">
-  <em>Bioinformatics & AI Researcher · Computational Biology · Machine Learning for Health</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/devadharshini-sankar-595117295">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ddsankar02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+🎓 M.Tech Computational Biology student @ Alagappa College of Technology, Anna University, Chennai  
+🧬 Passionate about computational drug discovery, transcriptomics, and AI-driven vaccine design  
+📍 Tamil Nadu, India
 
 ---
 
-## 🔬 About Me
+## 🔭 What I Work On
 
-I'm a **Postgraduate student** specializing in **Bioinformatics & AI**, passionate about building computational tools at the intersection of machine learning and biology.
-
-- 🧬 Researching **AI-driven solutions for healthcare and drug discovery**
-- 🤖 Working on **Multi-Objective Bayesian Optimization** for vaccine design
-- 🏥 Applying **ML classifiers** to medical diagnosis problems
-- 🐍 Primarily coding in **Python**
-- 📍 Based in **Tamil Nadu, India**
-- 📬 Reach me at **ddsankar02@gmail.com**
+- **Transcriptomic Analysis** — Multi-dataset DEG analysis using DESeq2, GEO datasets
+- **Drug Discovery** — Molecular docking (AutoDock Vina), ADME screening, protein–ligand interaction
+- **Vaccine Design** — Multi-epitope design with Multi-Objective Bayesian Optimization (MOBO)
+- **ML in Biology** — Classification models for cancer diagnosis
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Skills
 
-### 🦠 [SARS-CoV-2 Multi-Epitope Vaccine Design](https://github.com/Devadharshini-bioinfo/sars-cov2-vaccine-design-mobo)
-> Multi-objective Bayesian optimization enhanced immunoinformatics pipeline for SARS-CoV-2 vaccine design, molecular docking, and immune response simulation.
-
-`Python` `Bayesian Optimization` `Immunoinformatics` `Molecular Docking` `Computational Biology`
-
----
-
-### 🎗️ [Breast Cancer Diagnosis with ML](https://github.com/Devadharshini-bioinfo/Breast-Cancer-dDagnosis-ML)
-> Comparative analysis of LightGBM, MLP, Gradient Boosting and Gaussian Process classifiers on the Wisconsin Diagnostic Breast Cancer dataset.
-
-`Python` `LightGBM` `scikit-learn` `Machine Learning` `Healthcare AI`
+**Bioinformatics:** BLAST · Clustal Omega · Swiss-Model · Cytoscape · PyMOL  
+**Docking & Modeling:** AutoDock Vina · PyRx · Protein-ligand interaction analysis  
+**Programming:** Python · R (DESeq2) · Pandas · NumPy · Scikit-learn · PyTorch · BoTorch  
+**Lab:** Microbial culture · Antibiofilm assays
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Featured Projects
 
-**Languages**
+### 🧪 [Computational Drug Discovery – Type 2 Diabetes](https://github.com/Devadharshini-bioinfo)
+Integrated 3 GEO datasets (24,159 genes · 254 samples) → identified 7,564 DEGs → PPI network → top 10 hub genes → screened 1,238 phytocompounds → **Leucocyanidin (–8.1 kcal/mol)** as lead compound via AutoDock Vina
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+### 💉 [SARS-CoV-2 Multi-Epitope Vaccine Design](https://github.com/Devadharshini-bioinfo/sars-cov2-vaccine-design-mobo)
+Multi-Objective Bayesian Optimization pipeline balancing immunogenicity, population coverage, conservancy, and toxicity for optimal vaccine candidate selection
 
-**ML & Data Science**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-**Bioinformatics**
-
-![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat-square&logo=python&logoColor=white)
-![Molecular Docking](https://img.shields.io/badge/Molecular%20Docking-2E7D32?style=flat-square&logoColor=white)
+### 🎗️ [Breast Cancer Diagnosis – ML](https://github.com/Devadharshini-bioinfo/Breast-Cancer-Diagnosis-ML)
+Comparative analysis of LightGBM, MLP, Gradient Boosting, and Gaussian Process classifiers on the Wisconsin Diagnostic dataset
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devadharshini-bioinfo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devadharshini-bioinfo&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devadharshini-sankar-595117295/)
+[![Email](https://img.shields.io/badge/Email-ddsankar02@gmail.com-red?style=flat&logo=gmail)](mailto:ddsankar02@gmail.com)
 
 ---
 
-## 🧠 Research Interests
-
-```
-🔬 Computational Vaccinology         🤖 ML for Disease Diagnosis
-🧬 Multi-Omics Data Analysis         💊 Drug Target Identification
-🧪 Protein Structure Prediction      📊 Multi-Objective Optimization
-```
-
----
-
-<p align="center">
-  <em>"Bridging the gap between data and biology, one model at a time."</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devadharshini-bioinfo&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
+*Actively seeking M.Tech dissertation / research internship opportunities in computational biology and drug discovery.*
